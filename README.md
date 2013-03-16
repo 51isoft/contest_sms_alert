@@ -1,5 +1,4 @@
 Contest SMS Alert Platform
-
 =============================
 
 采用sms9平台以及PHPFetion飞信接口。
